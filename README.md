@@ -40,3 +40,23 @@ A responsive frontend clone of Spotify Web Player, built using HTML and CSS.
 
 
 ---
+
+✨ Future Plans
+
+Add interactivity using JavaScript
+
+Improve mobile design
+
+Add play/pause functionality
+
+
+
+---
+
+🙌 Author
+
+Made with ❤️ by Kaushal Gajanan Gadekar
+📧 kaushalgadekar4@gmail.com
+
+
+---
